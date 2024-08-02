@@ -2,12 +2,12 @@
 
 
 **Contenidos**
-- [1. Portainer](#1-portainer)
+- [1. Docker Portainer](#1-docker-portainer)
 - [2. Instalación](#2-instalación)
 - [3. Portal WEB](#3-portal-web)
 
 
-# 1. Portainer
+# 1. Docker Portainer
 Es un software que permite gestionar los contenedores **Docker** desde un **navegador**
 
 # 2. Instalación
